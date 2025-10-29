@@ -59,7 +59,7 @@
 ###
 
 <picture>
-<img =src "<div class="tenor-gif-embed" data-postid="26204516" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/kotge-gif-26204516"> </img>
+<img =src"https://tenor.com/view/kotge-gif-26204516](https://media1.tenor.com/m/PHSyfhyxPb0AAAAd/kotge.gif"> 
 </picture>
 
 ###
