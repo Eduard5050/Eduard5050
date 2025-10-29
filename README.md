@@ -55,6 +55,8 @@
 
 ###
 
-<img src="https://c.tenor.com/65-276hQ5XMAAAAC/star-wars-episode-vii-the-force-awakens-rey-skywalker.gif" alt="GIF de Star Wars, Rey y el Halcón Milenario">
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/7mL0kwxkdjoAAAAd/star-wars-episode-vii-the-force-awakens-rey-skywalker.gif"  />
+</div>
 
 ###
