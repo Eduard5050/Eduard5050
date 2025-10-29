@@ -51,10 +51,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
+![Rey y el Halcón Milenario en Star Wars](https://c.tenor.com/65-276hQ5XMAAAAC/star-wars-episode-vii-the-force-awakens-rey-skywalker.gif)
 
 ###
 
