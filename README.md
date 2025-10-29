@@ -59,9 +59,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduard5050/Eduard5050/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduard5050/Eduard5050/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eduard5050/Eduard5050/output/pacman-contribution-graph.svg">
+<div class="tenor-gif-embed" data-postid="26204516" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/kotge-gif-26204516">Kotge GIF</a>from <a href="https://tenor.com/search/kotge-gifs">Kotge GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </picture>
 
 ###
