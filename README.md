@@ -58,6 +58,6 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="12180110201093611593" data-share-method="host" data-aspect-ratio="2.4" data-width="100%"><a href="https://tenor.com/view/star-wars-episode-vii-the-force-awakens-rey-skywalker-actor-ewan-mcgregor-planet-jakku-the-millennium-falcon-gif-12180110201093611593">Star Wars-episode-vii-the-force-awakens Rey-skywalker GIF</a>from <a href="https://tenor.com/search/star+wars-episode-vii-the-force-awakens-gifs">Star Wars-episode-vii-the-force-awakens GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://c.tenor.com/65-276hQ5XMAAAAC/star-wars-episode-vii-the-force-awakens-rey-skywalker.gif" alt="GIF de Star Wars, Rey y el Halcón Milenario" style="width: 100%; max-width: 400px;">
 
 ###
